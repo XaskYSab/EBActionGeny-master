@@ -1,0 +1,1 @@
+include ':app', ':geny-annotation', ':geny-comlper'
